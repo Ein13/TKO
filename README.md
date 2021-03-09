@@ -1,6 +1,5 @@
 # TKO
 
-# Cicabe_Library
 Repository Aplikasi Sistem Pemesanan Tiket Konser Online 
 
 Anggota Team :
